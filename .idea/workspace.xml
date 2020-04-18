@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd25c3ef-31f0-4f0a-93a8-26ca4bc7162a" name="Default Changelist" comment="" />
+    <list default="true" id="dd25c3ef-31f0-4f0a-93a8-26ca4bc7162a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.c99a1f96.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-6c734d7e.37ba9444.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-8a635936.c4debf92.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.82b9c7a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/about.8c8a39cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/about.8c8a39cb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.b70d71e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.b70d71e0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2d0e55bf.c9bf1d86.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2d0e55bf.c9bf1d86.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-6c734d7e.8fd060bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-6c734d7e.8fd060bf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-8a635936.900976c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-8a635936.900976c4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.d0ebb59a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.d0ebb59a.js.map" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +31,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/app.c99a1f96.css">
+        <entry file="file://$PROJECT_DIR$/css/app.51326f60.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -19,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="714" selection-start-column="714" selection-end-column="714" />
+              <caret column="895" lean-forward="true" selection-start-column="895" selection-end-column="895" />
             </state>
           </provider>
         </entry>
@@ -52,7 +72,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,7 +89,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,17 +170,19 @@
       <updated>1586057950846</updated>
       <workItem from="1586057952788" duration="438000" />
       <workItem from="1586089522668" duration="178000" />
+      <workItem from="1586267963304" duration="195000" />
+      <workItem from="1587232461562" duration="259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="616000" />
+    <option name="totallyTimeSpent" value="1070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -197,10 +219,13 @@
     <entry file="file://$PROJECT_DIR$/css/app.c99a1f96.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.51326f60.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="714" selection-start-column="714" selection-end-column="714" />
+          <caret column="895" lean-forward="true" selection-start-column="895" selection-end-column="895" />
         </state>
       </provider>
     </entry>
